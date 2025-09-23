@@ -1,8 +1,8 @@
 {
   "Maintain": true,
-  "DateTimeStart": "2025-09-23 16:20:00",
+  "DateTimeStart": "2025-09-23 17:20:00",
   "UTCTimeStart": 1758619200,
-  "DateTimeEnd": "2025-09-23 17:00:00",
+  "DateTimeEnd": "2025-09-23 18:00:00",
   "UTCTimeEnd": 1758622800,
   "ExcludeDomain": [
     "landing.uatasia.com",
