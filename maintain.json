@@ -1,9 +1,9 @@
 {
   "Maintain": true,
   "DateTimeStart": "2025-09-23 16:20:00",
-  "UTCTimeStart": 1758615600,
+  "UTCTimeStart": 1758619200,
   "DateTimeEnd": "2025-09-23 17:00:00",
-  "UTCTimeEnd": 1758618000,
+  "UTCTimeEnd": 1758622800,
   "ExcludeDomain": [
     "landing.uatasia.com",
     "landing.easymon5678.com"
