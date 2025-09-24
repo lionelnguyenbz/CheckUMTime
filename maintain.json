@@ -1,7 +1,7 @@
 {
   "Maintain": True,
-  "DateTimeStart": "2025-09-24 9:20:00",
-  "UTCTimeStart": 1758670800,
+  "DateTimeStart": "2025-09-24 8:20:00",
+  "UTCTimeStart": 1758667200,
   "DateTimeEnd": "2025-09-24 10:20:00",
   "UTCTimeEnd": 1758674400,
   "ExcludeDomain": [
